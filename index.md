@@ -4,8 +4,8 @@
 
 ###Graphic Design Project
 
-[Project 1: Blend Image].(/sample_page)
-<img src="images/blendimages.png?raw=true"/>
+[Project 1: AvatarMaker].(/sample_page)
+<img src="images/AvatarMaker (2).png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
