@@ -20,6 +20,10 @@
 <img src="images/swirls.png?raw=true"/>
 
 ---
+[Project5: Ripple Effect](http://example.com/)
+<img src="images/mantree.png?raw=true"/>
+
+---
 
 ### Category Name 2
 
