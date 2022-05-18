@@ -16,6 +16,10 @@
 <img src="images/man.png?raw=true"/>
 
 ---
+[Project 4:Blur](http://example.com/)
+<img src="images/swirls.png?raw=true"/>
+
+---
 
 ### Category Name 2
 
