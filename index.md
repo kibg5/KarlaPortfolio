@@ -8,8 +8,8 @@
 <img src="images/AvatarMaker (2).png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 Mother's Day Special](/pdf/sample_presentation.pdf)
+<img src="images/motherday.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
