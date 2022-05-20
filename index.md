@@ -20,18 +20,24 @@
 <img src="images/swirls.png?raw=true"/>
 
 ---
-[Project5: Ripple Effect](http://example.com/)
+[Project 5: Ripple Effect](http://example.com/)
 <img src="images/mantree.png?raw=true"/>
 
 ---
-[Project5: Double Exposure Effect](http://example.com/)
+[Project 6: Double Exposure Effect](http://example.com/)
 <img src="images/IMG_4801.png?raw=true"/>
 
 ---
-[Project5: Double Exposure Effect](http://example.com/)
+[Project 7: Double Exposure Effect](http://example.com/)
 <img src="images/0D2E9F0F-E730-42CF-860A-128D7118E1C1.png?raw=true"/>
 
 ---
+[Project 8: Cool Retro Effect](http://example.com/)
+<img src="images/8B52BFF8-FAAD-4560-B56F-41046667A050.png?raw=true"/>
+
+---
+
+
 
 ### Category Name 2
 
